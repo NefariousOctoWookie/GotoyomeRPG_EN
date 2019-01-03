@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dadからメールだ。\""
+                                "\"It's a message from dad.\""
                             ]
                         },
                         {
@@ -3265,14 +3265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"【今日の午後に予防接種の予約を入れておい"
+                                "\"'I made a vaccination appointment for"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  たから全員で来なさい。】\\.\\.\\.だって。\""
+                                "  afternoon today, so you should all come.'\\.\\.\\.,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                " he says.\""
                             ]
                         },
                         {
