@@ -1,0 +1,310 @@
+[
+    null,
+    null,
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "外来",
+        "order": 4,
+        "parentId": 8,
+        "scrollX": 712,
+        "scrollY": 822.6666666666666
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "中野家二階(30分後)",
+        "order": 33,
+        "parentId": 5,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "中野家一階",
+        "order": 31,
+        "parentId": 0,
+        "scrollX": 712,
+        "scrollY": 505.3333333333333
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "中野家二階",
+        "order": 32,
+        "parentId": 4,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "病院1階ロビー",
+        "order": 29,
+        "parentId": 8,
+        "scrollX": 712,
+        "scrollY": 396
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "中野家一階(30分後)",
+        "order": 34,
+        "parentId": 3,
+        "scrollX": 712,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "病院1階ロビー(オープニング)",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 712,
+        "scrollY": 396
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "エレベータ内部（2階左）",
+        "order": 23,
+        "parentId": 13,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "入院棟最上階",
+        "order": 5,
+        "parentId": 8,
+        "scrollX": 712,
+        "scrollY": 822.6666666666666
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "入院棟エレベーター前",
+        "order": 14,
+        "parentId": 8,
+        "scrollX": 712,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "別館2階",
+        "order": 2,
+        "parentId": 8,
+        "scrollX": 968,
+        "scrollY": 846.6666666666666
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "エレベータ内部(1階左)",
+        "order": 22,
+        "parentId": 11,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "風太郎病室",
+        "order": 6,
+        "parentId": 10,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "入院棟2階",
+        "order": 15,
+        "parentId": 11,
+        "scrollX": 712,
+        "scrollY": 1092
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "階段",
+        "order": 28,
+        "parentId": 11,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "別館1階",
+        "order": 3,
+        "parentId": 12,
+        "scrollX": 712,
+        "scrollY": 617.3333333333334
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "個人病室(左上)",
+        "order": 16,
+        "parentId": 15,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "集合病室(上1)",
+        "order": 20,
+        "parentId": 15,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "個人病室(上左)",
+        "order": 17,
+        "parentId": 18,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "集合病室(上2)",
+        "order": 7,
+        "parentId": 10,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "個人病室(上右)",
+        "order": 18,
+        "parentId": 18,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "個人病室(上右2)",
+        "order": 11,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "個人病室(上左2)",
+        "order": 12,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "個人病室(左下)",
+        "order": 19,
+        "parentId": 18,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "集合病室(左)",
+        "order": 21,
+        "parentId": 19,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "集合病室(左2)",
+        "order": 8,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "個人病室(左上2)",
+        "order": 9,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "個人病室(左下2)",
+        "order": 10,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "個人病室(右2)",
+        "order": 13,
+        "parentId": 21,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "エレベータ内部（最上階右）",
+        "order": 25,
+        "parentId": 13,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "エレベータ内部（最上階左）",
+        "order": 26,
+        "parentId": 31,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "エレベータ内部（2階右）",
+        "order": 24,
+        "parentId": 9,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "エレベータ内部(1階右)",
+        "order": 27,
+        "parentId": 13,
+        "scrollX": 722.6666666666666,
+        "scrollY": 406.6666666666667
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "中野家一階（エンディング）",
+        "order": 30,
+        "parentId": 0,
+        "scrollX": 712,
+        "scrollY": 406.6666666666667
+    }
+]

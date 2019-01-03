@@ -1,0 +1,209 @@
+[
+    null,
+    {
+        "id": 1,
+        "list": [
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    3,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "五月(基本)",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "五月"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「お腹が減ってもう動けません……。」"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 353,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "空腹",
+        "switchId": 15,
+        "trigger": 2
+    },
+    {
+        "id": 2,
+        "list": [
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    3,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "アナウンスの声"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「中野五月様ー、中野五月様ー。」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "アナウンスの声"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「至急、処置室までお越しください。」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "五月(基本)",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "五月"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「あわわわわ……。」"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 353,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "院内放送",
+        "switchId": 7,
+        "trigger": 2
+    },
+    {
+        "id": 3,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 4,
+        "list": [
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "",
+        "switchId": 1,
+        "trigger": 0
+    }
+]
