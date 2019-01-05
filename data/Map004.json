@@ -3159,7 +3159,7 @@
         },
         {
             "id": 5,
-            "name": "オープニング1",
+            "name": "Opening1",
             "note": "",
             "pages": [
                 {
@@ -3341,7 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"なら今日の予定は決まりだね。\""
+                                "\"Then that settles the plans for today.\""
                             ]
                         },
                         {
@@ -3381,7 +3381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\{え！？……\\}\\.\\.今日はちょっと用事が……。\""
+                                "\"\\{Huh?!……\\}\\.\\.I'm kinda busy today...\""
                             ]
                         },
                         {
@@ -3862,7 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"その言い方は、用事ないんでしょ。\""
+                                "\"You don't sound like you're actually busy.\""
                             ]
                         },
                         {
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"注射……、怖いの……？\""
+                                "\"Are you... scared of needles?\""
                             ]
                         },
                         {
@@ -3910,7 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"そ、そんなわけないでしょ！\""
+                                "\"O-of course not!\""
                             ]
                         },
                         {
@@ -3934,14 +3934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Itsukiはまだ起きてこないんだ、\\."
+                                "\"Itsuki still hasn't woken up,\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　お寝坊さんだなあ。\""
+                                " such a sleepyhead.\""
                             ]
                         },
                         {
@@ -3965,14 +3965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"たまたま今日はIchikaが早かっただけでしょ。\\.\\."
+                                "\"It's just that you woke up early.\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　いつもはIchikaの方が遅いのに。\""
+                                " You're usually the last to wake up.\""
                             ]
                         },
                         {
@@ -4005,7 +4005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"今日は今日。過去は過去だよ？\""
+                                "\"Today is today. The past is in the past.\""
                             ]
                         },
                         {
@@ -4029,14 +4029,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\{と、とにかく！\\}\\.\\.\\."
+                                "\"\\{A-anyway!\\}\\.\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　Itsukiを起こさないと病院にいけないでしょ!\"　"
+                                " We can't go to the hospital if we don't"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                " wake up Itsuki.\""
                             ]
                         },
                         {
@@ -4060,7 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"私が起こしてくるから。Ninoはそこにいて。\""
+                                "\"I'll go wake her up. Nino, you stay here.\""
                             ]
                         },
                         {
@@ -4286,7 +4293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\\}\\}\"ぐぬぬ……。\"\\}\\}\\}"
+                                "\\}\\}\\}\"Grr...\"\\}\\}\\}"
                             ]
                         },
                         {
