@@ -5497,7 +5497,7 @@
         },
         {
             "id": 6,
-            "name": "Ichika（鬼）",
+            "name": "Ichika(鬼)",
             "note": "",
             "pages": [
                 {
@@ -5570,7 +5570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"い、Ichika。離してください。\""
+                                "\"I-, Ichika. Let me go please.\""
                             ]
                         },
                         {
@@ -5594,14 +5594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"駄目だぞ、予防接種の時間なんだから"
+                                "\"Nope, it's time for vaccination,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　わがまま言わない。\""
+                                "　so don't be selfish.\""
                             ]
                         },
                         {
@@ -5641,7 +5641,7 @@
         },
         {
             "id": 7,
-            "name": "医者1",
+            "name": "Doctor1",
             "note": "",
             "pages": [
                 {
@@ -5701,7 +5701,7 @@
         },
         {
             "id": 8,
-            "name": "外来のお姉さん",
+            "name": "Outpatient clinic lady",
             "note": "",
             "pages": [
                 {
@@ -5752,7 +5752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "外来のお姉さん"
+                                "Outpatient clinic lady"
                             ]
                         },
                         {
@@ -5786,21 +5786,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "外来のお姉さん"
+                                "Outpatient clinic lady"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？おすすめの食べ物？\\.\\.\\.ごめんね、私いつも"
+                                "\"Eh? My food recommendation?\\.\\.\\. Sorry,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　お弁当だから。\""
+                                "　I always bring my own lunch.\""
                             ]
                         },
                         {
@@ -5845,7 +5845,7 @@
         },
         {
             "id": 9,
-            "name": "看護師のお兄さん",
+            "name": "Male nurse",
             "note": "",
             "pages": [
                 {
@@ -5896,14 +5896,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "看護師のお兄さん"
+                                "Male nurse"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"ここは外来だよ。\""
+                                "\"This is the outpatient clinic.\""
                             ]
                         },
                         {
@@ -5930,21 +5930,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "看護師のお兄さん"
+                                "Male nurse"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？おすすめの食べ物？\\.\\.\\.それなら喫茶店の"
+                                "\"Eh? My food recommendation?\\.\\.\\. I guess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ミックスピザかな。\""
+                                "　it would be the cafe's combination pizza.\""
                             ]
                         },
                         {
@@ -6161,7 +6161,7 @@
         },
         {
             "id": 12,
-            "name": "おじいさん",
+            "name": "Elderly man",
             "note": "",
             "pages": [
                 {
@@ -6203,14 +6203,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじいさん"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"順番はまだかいのぉ。\""
+                                "\"When will it be my turn?\""
                             ]
                         },
                         {
@@ -6245,7 +6245,7 @@
         },
         {
             "id": 13,
-            "name": "おばあちゃん",
+            "name": "Elderly woman",
             "note": "",
             "pages": [
                 {
@@ -6287,14 +6287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばあちゃん"
+                                "Elderly woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"まだだからおじいさんは待っててくださいねえ。\""
+                                "\"Not yet, so just wait.\""
                             ]
                         },
                         {
@@ -6329,7 +6329,7 @@
         },
         {
             "id": 14,
-            "name": "木",
+            "name": "Tree",
             "note": "",
             "pages": [
                 {
@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6413,7 +6413,7 @@
         },
         {
             "id": 15,
-            "name": "木",
+            "name": "Tree",
             "note": "",
             "pages": [
                 {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6497,7 +6497,7 @@
         },
         {
             "id": 16,
-            "name": "木",
+            "name": "Tree",
             "note": "",
             "pages": [
                 {
@@ -6546,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6581,7 +6581,7 @@
         },
         {
             "id": 17,
-            "name": "本棚",
+            "name": "bookshelf",
             "note": "",
             "pages": [
                 {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"医療系の本ばかりですね。\""
+                                "\"It's all full of medical books.\""
                             ]
                         },
                         {
@@ -6665,7 +6665,7 @@
         },
         {
             "id": 18,
-            "name": "本棚",
+            "name": "bookshelf",
             "note": "",
             "pages": [
                 {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"医療系の本ばかりですね。\""
+                                "\"It's all full of medical books.\""
                             ]
                         },
                         {
@@ -6749,7 +6749,7 @@
         },
         {
             "id": 19,
-            "name": "本棚",
+            "name": "bookshelf",
             "note": "",
             "pages": [
                 {
@@ -6798,7 +6798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"医療系の本ばかりですね。\""
+                                "\"It's all full of medical books.\""
                             ]
                         },
                         {
@@ -6833,7 +6833,7 @@
         },
         {
             "id": 20,
-            "name": "本棚",
+            "name": "bookshelf",
             "note": "",
             "pages": [
                 {
@@ -6882,7 +6882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"医療系の本ばかりですね。\""
+                                "\"It's all full of medical books.\""
                             ]
                         },
                         {
@@ -6917,7 +6917,7 @@
         },
         {
             "id": 21,
-            "name": "自動販売機",
+            "name": "Vending machine",
             "note": "",
             "pages": [
                 {
@@ -6966,7 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7001,7 +7001,7 @@
         },
         {
             "id": 22,
-            "name": "自動販売機",
+            "name": "Vending machine",
             "note": "",
             "pages": [
                 {
@@ -7050,7 +7050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7085,7 +7085,7 @@
         },
         {
             "id": 23,
-            "name": "自動販売機",
+            "name": "Vending machine",
             "note": "",
             "pages": [
                 {
@@ -7134,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7211,14 +7211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無口そうな男の子"
+                                "Silent boy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"見つかっちゃた。\""
+                                "\"You found me.\""
                             ]
                         },
                         {
@@ -7235,14 +7235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無口そうな男の子"
+                                "Silent boy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"はい、これ。\""
+                                "\"Here, have this.\""
                             ]
                         },
                         {
@@ -7259,7 +7259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]固焼きせんべい\\cを手に入れた"
+                                "You obtained \\c[3]Hard-baked rice crackers\\c"
                             ]
                         },
                         {
@@ -7365,7 +7365,7 @@
         },
         {
             "id": 25,
-            "name": "営業風な男性",
+            "name": "Businessman",
             "note": "",
             "pages": [
                 {
@@ -7407,14 +7407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "営業風な男性"
+                                "Businessman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"今日も話を聞いてもらえなかった……。\""
+                                "\"They wouldn't hear me out today either...\""
                             ]
                         },
                         {

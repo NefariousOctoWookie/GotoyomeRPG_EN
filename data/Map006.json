@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4126,7 +4126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　喫茶店の焼き立てアップルパイは外せません。\""
+                                "　cafeの焼き立てアップルパイは外せません。\""
                             ]
                         },
                         {
@@ -4213,7 +4213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4259,7 +4259,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4296,7 +4296,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4342,7 +4342,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4379,7 +4379,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4427,7 +4427,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4472,14 +4472,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（騙す形になっちゃいましたが、これでEusugiさんの話を"
+                                "(騙す形になっちゃいましたが、これでEusugiさんの話を"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　しっかりと聞く時間が取れました。）"
+                                "　しっかりと聞く時間が取れました。)"
                             ]
                         },
                         {
@@ -4549,7 +4549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　喫茶店の焼き立てアップルパイは外せません。\""
+                                "　cafeの焼き立てアップルパイは外せません。\""
                             ]
                         },
                         {
@@ -4636,7 +4636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "受付の看護師"
+                                "Nurse at the reception"
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　喫茶店の焼き立てアップルパイは外せません。\""
+                                "　cafeの焼き立てアップルパイは外せません。\""
                             ]
                         },
                         {
@@ -4821,14 +4821,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？\\.\\.おすすめの食べ物？\\.\\.\\."
+                                "\"Eh?\\.\\.おすすめの食べ物？\\.\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　当院の喫茶店のパンケーキが最高です。\""
+                                "　当院のcafeのパンケーキが最高です。\""
                             ]
                         },
                         {
@@ -4965,7 +4965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？\\.\\.\\.私のおすすめですか？\""
+                                "\"Eh?\\.\\.\\.私のおすすめですか？\""
                             ]
                         },
                         {
@@ -5234,7 +5234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（ふざけてる場合ではありません。）"
+                                "(ふざけてる場合ではありません。)"
                             ]
                         },
                         {
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？\\.\\.\\.私のおすすめですか？\""
+                                "\"Eh?\\.\\.\\.私のおすすめですか？\""
                             ]
                         },
                         {
@@ -5437,7 +5437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"え？\\.\\.\\.私のおすすめですか？\""
+                                "\"Eh?\\.\\.\\.私のおすすめですか？\""
                             ]
                         },
                         {
@@ -5562,14 +5562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"え？\\.\\.おすすめの食べ物ですか？\\.\\.\\."
+                                "\"Eh?\\.\\.おすすめの食べ物ですか？\\.\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　当院の喫茶店のナポリタンでしょうか。\""
+                                "　当院のcafeのナポリタンでしょうか。\""
                             ]
                         },
                         {
@@ -5604,7 +5604,7 @@
         },
         {
             "id": 5,
-            "name": "Yotsuba（鬼ごっこ）",
+            "name": "Yotsuba(鬼ごっこ)",
             "note": "",
             "pages": [
                 {
@@ -6094,7 +6094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6178,7 +6178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6377,7 +6377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6461,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -6629,7 +6629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -6713,7 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -6797,7 +6797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -6881,7 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -6965,7 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -7000,7 +7000,7 @@
         },
         {
             "id": 19,
-            "name": "本棚",
+            "name": "Bookshelf",
             "note": "",
             "pages": [
                 {
@@ -7049,7 +7049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（難しそうな本がいっぱいです……。）"
+                                "(There are a lot of difficult books...)"
                             ]
                         },
                         {
@@ -7133,7 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -7217,7 +7217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7301,7 +7301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7385,7 +7385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -7478,7 +7478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（これに用はありません。）"
+                                "(I have no business with this.)"
                             ]
                         },
                         {
@@ -7581,7 +7581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（これに用はありません。）"
+                                "(I have no business with this.)"
                             ]
                         },
                         {
@@ -7675,7 +7675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こんなの押したら冗談ですまされません…。）"
+                                "(If I pressed this, I wouldn't be able to pass it off as a joke.)"
                             ]
                         },
                         {
@@ -7759,7 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石にゴミ箱を漁るわけには……）"
+                                "(Even I wouldn't rummage through a trash can.)"
                             ]
                         },
                         {
@@ -7843,7 +7843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石にゴミ箱を漁るわけには……）"
+                                "(Even I wouldn't rummage through a trash can.)"
                             ]
                         },
                         {
@@ -7927,7 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -8011,7 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -8095,7 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -8179,7 +8179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -8263,7 +8263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -8298,7 +8298,7 @@
         },
         {
             "id": 34,
-            "name": "本棚",
+            "name": "Bookshelf",
             "note": "",
             "pages": [
                 {
@@ -8347,7 +8347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（難しそうな本がいっぱいです……。）"
+                                "(There are a lot of difficult books...)"
                             ]
                         },
                         {
@@ -9103,7 +9103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -9187,7 +9187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {
@@ -9271,7 +9271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に一人で帰るわけには……）"
+                                "(I really shouldn't go home alone...)"
                             ]
                         },
                         {

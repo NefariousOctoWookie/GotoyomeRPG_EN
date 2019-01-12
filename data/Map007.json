@@ -3037,7 +3037,7 @@
         null,
         {
             "id": 1,
-            "name": "オープニング4",
+            "name": "Opening4",
             "note": "",
             "pages": [
                 {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"ごめんなさいいいいいいい！\""
+                                "\"I'm sorryyyyyyy!\""
                             ]
                         },
                         {
@@ -3455,14 +3455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"いつまで寝てるのよ！"
+                                "\"Just how long did you intend to sleep?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　朝食、あとで絶対食べなさいよ！\""
+                                "　You'll have to eat breafast later!\""
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"まったくねぼすけさんめ。\""
+                                "\"Seriously, you big sleepyhead.\""
                             ]
                         },
                         {
@@ -3510,7 +3510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"あの時ちゃんと起きてればよかったのに。\""
+                                "\"It would have been fine if you just"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                " woke up properly back then.\""
                             ]
                         },
                         {
@@ -3534,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"しゅっぱーつ！\""
+                                "\"Let's goo!\""
                             ]
                         },
                         {

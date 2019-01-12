@@ -17197,7 +17197,7 @@
         },
         {
             "id": 27,
-            "name": "Miku（鬼）",
+            "name": "Miku(鬼)",
             "note": "",
             "pages": [
                 {
@@ -17889,7 +17889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（とんでもないことを聞いてしまいました……）"
+                                "(とんでもないことを聞いてしまいました……)"
                             ]
                         },
                         {
@@ -19202,7 +19202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -19286,7 +19286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -19370,7 +19370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -19454,7 +19454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"美味しそうな飲み物は……、ありませんね。\""
+                                "\"Tasty-looking drinks... There aren't any.\""
                             ]
                         },
                         {
@@ -20409,7 +20409,7 @@
         },
         {
             "id": 43,
-            "name": "Ichika（鬼）",
+            "name": "Ichika(鬼)",
             "note": "",
             "pages": [
                 {
@@ -20643,7 +20643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -20979,7 +20979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（流石に食用ではない草木は食べられません。）"
+                                "(Even I wouldn't eat inedible plants.)"
                             ]
                         },
                         {
@@ -21014,7 +21014,7 @@
         },
         {
             "id": 49,
-            "name": "本棚",
+            "name": "Bookshelf",
             "note": "",
             "pages": [
                 {
@@ -21098,7 +21098,7 @@
         },
         {
             "id": 50,
-            "name": "本棚",
+            "name": "Bookshelf",
             "note": "",
             "pages": [
                 {
@@ -21819,7 +21819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -21903,7 +21903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -21987,7 +21987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {
@@ -22071,7 +22071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（足は悪くしたくないですね……）"
+                                "(I wouldn't want to lose my legs...)"
                             ]
                         },
                         {

@@ -1423,7 +1423,7 @@
         },
         {
             "id": 2,
-            "name": "オープニング2",
+            "name": "Opening2",
             "note": "",
             "pages": [
                 {
@@ -1769,7 +1769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Itsuki起きて。\""
+                                "\"Itsuki, wake up.\""
                             ]
                         },
                         {
@@ -1793,7 +1793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\"ううん……。\\.\\.Mikuですか……、\\.\\.もうちょっと……。\"\\.\\."
+                                "\\}\"Mmmm...\\.\\. Miku, is that you?\\.\\. Just a bit longer...\"\\.\\."
                             ]
                         },
                         {
@@ -1817,14 +1817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"そのまま寝てると\\.\\.朝ごはん食べる時間"
+                                "\"If you don't get up,\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " なくなるよ。\""
+                                " you won't get to eat breakfast.\""
                             ]
                         },
                         {
@@ -1848,7 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\"今日はEusugi君の家庭教師はおやすみのはずです……。\"\\}"
+                                "\\}\"Eusugi-kun shouldn't be teaching us today...\"\\}"
                             ]
                         },
                         {
@@ -1872,7 +1872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"予防接種で病院行くから\\.\\.時間そんなにない。\""
+                                "\"We're going to the hospital to get"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                " vaccinated,\\.\\. so we don't have much time.\""
                             ]
                         },
                         {
@@ -1896,7 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\"わかりました……、\\.\\.\\.準備できたらいきますから……。\"\\}"
+                                "\\}\"Fine...\\.\\.\\. I'll go after I get ready.\"\\}"
                             ]
                         },
                         {
@@ -1920,7 +1927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"…………、\\.\\.\\.わかった。\\.\\.下で待ってるから。\""
+                                "\"......\\.\\.\\. Alright.\\.\\. We're waiting downstairs.\""
                             ]
                         },
                         {
@@ -2262,14 +2269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\"はい……。\"\\}\\.\\.\\."
+                                "\\}\"Ok...\"\\}\\.\\.\\."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}\\}\\}スヤスヤ\\}\\}\\}"
+                                "\\}\\}\\}*zzzz*\\}\\}\\}"
                             ]
                         },
                         {
